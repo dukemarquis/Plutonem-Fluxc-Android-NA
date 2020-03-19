@@ -23,7 +23,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Registor {
-    private static final String PN_REG_PREFIX = "http://39.99.148.207/reg";
+    private static final String PN_REG_PREFIX = "http://3.15.14.1/reg";
     private static final String TOKEN_ENDPOINT = PN_REG_PREFIX + "/token";
 
     public static final String USERNAME_PARAM_NAME = "username";

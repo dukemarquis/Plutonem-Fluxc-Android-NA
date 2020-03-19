@@ -24,7 +24,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Authenticator {
-    private static final String PNCOM_OAUTH_PREFIX = "http://39.99.148.207/oauth2";
+    private static final String PNCOM_OAUTH_PREFIX = "http://3.15.14.1/oauth2";
     private static final String TOKEN_ENDPOINT = PNCOM_OAUTH_PREFIX + "/token";
 
     public static final String CLIENT_ID_PARAM_NAME = "client_id";
